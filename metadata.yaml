@@ -1,0 +1,50 @@
+_repo: Doctors-An-Address-delivered-to-the-Students-of-the-Medical-School-of-the-Middlesex-Hospital-__67704
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lucas, Reginald
+    birthdate: 1865
+    deathdate: 1914
+    gutenberg_agent_id: '54430'
+    url: http://www.gutenberg.org/2009/agents/54430
+    wikipedia: https://en.wikipedia.org/wiki/Reginald_Lucas
+  contributor:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2022-03-25'
+identifiers:
+  gutenberg: '67704'
+  lccn: 09014932
+language: en
+pgterms:marc905: 20220212155334kipling
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United Kingdom :Macmillan and Co., Limited,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians'
+- !lcc 'R'
+- GITenberg
+title: "Doctors\r\nAn Address delivered to the Students of the Medical School of the\
+  \ Middlesex Hospital, 1st October, 1908"
+url: http://www.gutenberg.org/ebooks/67704
